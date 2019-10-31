@@ -9,7 +9,7 @@ git config --global user.name "seanops-bot"
 git config --global push.default simple
 
 rm -rf deployment
-git clone -b master https://github.com/cedlerouge/seanops.git deployment
+git clone -b master https://github.com/cedlerouge/seanops.github.io.git deployment
 rsync -av --delete --exclude ".git" public/ deployment
 cd deployment
 git add -A
