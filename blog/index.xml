@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Seanops website</title>
+    <link>http://seanops.github.io/blog/</link>
+    <description>Recent content in Blogs on Seanops website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Mon, 24 Dec 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://seanops.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Start</title>
+      <link>http://seanops.github.io/blog/start/</link>
+      <pubDate>Mon, 24 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://seanops.github.io/blog/start/</guid>
+      <description>In this post, I explain how can I deploy this website. I use hugo to help me manage the content. I use github to host my site. I use travis to continuous deliver the content of my notes.</description>
+    </item>
+    
+  </channel>
+</rss>
